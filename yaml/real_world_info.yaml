@@ -1,0 +1,31 @@
+real_world_datasets:
+  amazon:
+    node_num: 10000
+    reduce_dim: 1000
+    layer_num: 4
+    clusters_num: 200
+  cancer:
+    node_num: 9789
+    reduce_dim: 980
+    layer_num: 4
+    clusters_num: 200
+  cellphone:
+    node_num: 400
+    reduce_dim: 40
+    layer_num: 10
+    clusters_num: 8
+  cell_phone:
+    node_num: 400
+    reduce_dim: 40
+    layer_num: 10
+    clusters_num: 8
+  dblp:
+    node_num: 1011
+    reduce_dim: 101
+    layer_num: 4
+    clusters_num: 20
+  p2p:
+    node_num: 8000
+    reduce_dim: 400
+    layer_num: 4
+    clusters_num: 160

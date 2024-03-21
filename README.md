@@ -4,4 +4,4 @@
 
 Yifei Yang, Xiaoke Ma
 
-![Markdown Logo](README.assets/jNMF_GCL.png)
+![Markdown Logo](docs/jNMF_GCL.png)
